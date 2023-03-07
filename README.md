@@ -9,14 +9,12 @@ Git (optional)
 Installation
 To install this application, you can clone this repository using the following command:
 
-bash
 Copy code
 git clone https://github.com/your-username/your-repo.git
 Alternatively, you can download the repository as a ZIP file and extract it to your local machine.
 
 After cloning the repository, navigate to the project directory and install the required packages by running the following command:
 
-Copy code
 pip install -r requirements.txt
 Usage
 To run the application, navigate to the project directory and run the following command:
