@@ -1,16 +1,11 @@
 # URL-Shortner
 This is a Django-based web application that allows users to shorten long URLs into short and easy-to-remember links.
 
-Table of Contents
-Requirements
-Installation
-Usage
-Contributing
-License
 Requirements
 Python 3.6 or higher
 Django 3.2 or higher
 Git (optional)
+
 Installation
 To install this application, you can clone this repository using the following command:
 
